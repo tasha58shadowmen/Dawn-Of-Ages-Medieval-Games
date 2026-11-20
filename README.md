@@ -206,3 +206,6 @@ This repository serves as the official landing page for **Dawn of Ages**. The so
 - 💬 **[Community](https://agzed.berga.top/about-us/)**
 ---
 **Get the most recent version of Dawn of Ages today!**
+
+---
+**Last updated:** 2026-11-20 12:22:52 UTC
