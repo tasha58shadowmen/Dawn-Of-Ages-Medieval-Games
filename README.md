@@ -208,4 +208,4 @@ This repository serves as the official landing page for **Dawn of Ages**. The so
 **Get the most recent version of Dawn of Ages today!**
 
 ---
-**Last updated:** 2026-11-21 01:54:05 UTC
+**Last updated:** 2026-11-21 09:00:10 UTC
